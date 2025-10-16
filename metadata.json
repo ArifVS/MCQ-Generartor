@@ -1,0 +1,5 @@
+{
+  "name": "AI MCQ Generator",
+  "description": "An AI-powered application that dynamically generates multiple-choice questions from user-provided text topics or uploaded study materials using the Gemini API.",
+  "requestFramePermissions": []
+}
